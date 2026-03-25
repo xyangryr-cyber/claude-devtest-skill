@@ -23,7 +23,7 @@ Tester Agent 重跑 → 全部通过
 ## 快速安装
 
 ```bash
-git clone https://github.com/GITHUB_USERNAME/claude-devtest-skill.git
+git clone https://github.com/xyangryr-cyber/claude-devtest-skill.git
 cd claude-devtest-skill
 chmod +x install.sh
 ./install.sh

@@ -1,7 +1,7 @@
 #!/bin/bash
 # ============================================================
 # Claude Code 研发测试闭环 一键安装脚本
-# 项目主页：https://github.com/GITHUB_USERNAME/claude-devtest-skill
+# 项目主页：https://github.com/xyangryr-cyber/claude-devtest-skill
 # ============================================================
 
 set -e
